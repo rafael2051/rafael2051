@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafael2051
-- 👀 I’m interested in information security, open source and hacking.
-- 🌱 I’m currently learning C, html, webhacking, TCP/IP.
-- 💞️ I’m looking to collaborate on provide better security for people in internet.
+- 👀 I’m interested in web development, data science, machine learning, information security, open source and hacking.
+- 🌱 I’m currently learning C, python, web scrapping, automation with python, Power BI and data science;
+- 💞️ I’m looking to collaborate on provide better solutions for automation of process.
 - 📫 How to reach me: my phone is +5511963183773 and my email is rafael.moura.almeida@usp.br 
 
 <!---
