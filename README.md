@@ -9,7 +9,6 @@
 
 ### My name is Rafael, and i'm currently studying Information System at USP.
 
-_I've been studying and working a lot, so I don't get to participate in social media very often._
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/AASanticioli)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AleSanticioli)
