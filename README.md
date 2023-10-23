@@ -7,7 +7,7 @@
 
   <div style="order: 4">
 
-### My name is Rafael, and i'm currently studying Information System at USP.
+### My name is Rafael, and i'm currently studying Information Systems at USP.
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/rafael2051)
