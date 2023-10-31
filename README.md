@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=Cplusplus)
 ![ESP32](https://img.shields.io/badge/esp32-000?style=for-the-badge&logo=esp32)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=30A3DC)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=JAVA)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
@@ -33,6 +33,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=nodejs)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask)
 
