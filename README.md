@@ -9,8 +9,6 @@
 
 ### My name is Rafael, and i'm currently studying Information Systems at USP.
 
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/rafael2051)
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-moura-de-almeida-905410224/)
   
   </div>
