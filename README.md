@@ -58,6 +58,8 @@
   </div>
   <br/>
 
+  I also love Linux, and i'm currently using Manjaro, but i've already had contact with Ubuntu, Antix, Fedora and Kali Linux.
+
 
   <div style="order: 9">
 
