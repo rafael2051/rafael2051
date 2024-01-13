@@ -22,6 +22,7 @@
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=Cplusplus)
 ![ESP32](https://img.shields.io/badge/esp32-000?style=for-the-badge&logo=esp32)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=JAVA)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)
 ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
