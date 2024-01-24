@@ -32,7 +32,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/C#-000?style=for-the-badge&logo=C#)
+![C](https://img.shields.io/badge/Csp-000?style=for-the-badge&logo=Csp)
 ![NodeJS](https://img.shields.io/badge/Nodejs-000?style=for-the-badge&logo=nodejs)
 ![python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
 ![flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask)
