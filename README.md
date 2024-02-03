@@ -41,7 +41,9 @@
   ### And some tools
 
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/intellij-000?style=for-the-badge&logo=IntelliJ)
+![Visual Studio 2022](https://img.shields.io/badge/visualstudio-000?style=for-the-badge&logo=visualstudio)
+![IntelliJ](https://img.shields.io/badge/intellij-000?style=for-the-badge&logo=intellij)
+![AndroidStudio](https://img.shields.io/badge/androidstudio-000?style=for-the-badge&logo=AndroidStudio)
 ![CodeBlocks](https://img.shields.io/badge/codeblocks-000?style=for-the-badge&logo=codeblocks)
 ![PowerPoint](https://img.shields.io/badge/powerpoint-000?style=for-the-badge&logo=microsoftpowerpoint)
 ![Excel](https://img.shields.io/badge/excel-000?style=for-the-badge&logo=microsoftexcel)
