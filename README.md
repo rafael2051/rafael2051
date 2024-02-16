@@ -7,7 +7,7 @@
 
   <div style="order: 4">
 
-### My name is Rafael, and i'm currently studying Information Systems at USP.
+### My name is Rafael, and i'm currently studying Information Systems at USP and working as Software Developer Intern at [IDGR](https://www.idgr.com.br/?sessao=topo).
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-moura-de-almeida-905410224/)
   
