@@ -7,7 +7,7 @@
 
   <div style="order: 4">
 
-### My name is Rafael, and i'm currently studying Information Systems at USP and working as Backend Developer Intern at [Negocie ONLINE](https://negocieonline.com.br/).
+### My name is Rafael, and i'm currently studying Information Systems at USP and working as Junior Embedded Developer at [Volkswagen Group Services South America](https://vwgs-sam.gupy.io/).
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-moura-de-almeida-905410224/)
   
